@@ -1,0 +1,19 @@
+KPI,Value
+Total Instructors,60
+Total Courses,60
+Total Enrollments,10000
+Average Teacher Rating,3.12
+Average Course Rating,3.12
+Best Expertise,Marketing
+Best Expertise Course Rating,3.65
+Best Course Category,Marketing
+Best Category Rating,3.69
+Best Course Level,Intermediate
+Best Level Rating,3.34
+Experience → Teacher Rating,0.598
+Experience → Course Rating,-0.057
+Teacher Rating → Course Rating,0.0
+Teacher Rating → Enrollment,0.318
+Performance Score → Enrollment,0.54
+Top Instructor,Yolanda Levine
+Top Instructor Performance Score,81.26
